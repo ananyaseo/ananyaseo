@@ -1,11 +1,19 @@
-- 👋 Hi, I’m @ananyaseo
-- 👀 I’m interested in digital marketing, SEO
-- I run Ananya SEO services https://www.ananyaseo.com/ 	
-- 📫 How to reach me sales@ananyaseo.com
-- ⚡ Books I have published   Pandemic Love and Other Stories [https://www.amazon.in/dp/B0CH8LVLBR ]
-- and The Healer of Minds, biography of Dr Chandrashekar: 'People's Psychiatrist' who adopted villages, went to doorsteps to treat patients  (https://www.amazon.in/dp/B0CVX7LBSF  )
+<h1 align="center">Hi 👋, I'm Anand Rao</h1>
+<h3 align="center">A digital marketeer and author of couple of books</h3>
 
-<!---
-ananyaseo/ananyaseo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 🔭 I’m currently working on [Capital 4 Development Partners](https://c4dpartners.com/)
+
+- 👯SEO And Google Ads management for [SERUDS NGO](https://serudsindia.org)
+
+- Published a biography of Dr. C R Chandrashekar, Psychiatristt [The Healer of Minds](https://play.google.com/store/books/details?id=JgP2EAAAQBAJ&pli=1)
+
+- 👨‍💻 My Digital Marketing agency [http://ananyaseo.com/](http://ananyaseo.com/)
+
+- 📫 How to reach me **sanand.rao@gmail.com**
+
+- 📄 Know about my experiences [https://www.linkedin.com/in/anandrao/](https://www.linkedin.com/in/anandrao/)
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
+
